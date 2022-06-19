@@ -1,6 +1,6 @@
 # **Link kaggle** 
-  ## **Link of notebook**
-  ## **Link of competition**
+## **Link of notebook**
+## **Link of competition**
     [Tweet Sentiment Extraction](https://www.kaggle.com/competitions/tweet-sentiment-extraction)
   
 # Describe
