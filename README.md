@@ -1,7 +1,7 @@
 # **Link kaggle** 
- (https://www.kaggle.com/code/minhtamlenguyen/tensorflow-roberta-0-705)
+ https://www.kaggle.com/code/minhtamlenguyen/tensorflow-roberta-0-705
  <br>
- (https://www.kaggle.com/code/jerifate/tweet-sentiment-blue-visualization-with-bert)
+ https://www.kaggle.com/code/jerifate/tweet-sentiment-blue-visualization-with-bert
 ## **Link of notebook**
  [Dang Huu Phuoc Vinh](https://www.kaggle.com/danghuuphuocvinh/tweet-sentiment-extraction)
  <br>
