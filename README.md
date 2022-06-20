@@ -1,8 +1,10 @@
 # **Link kaggle** 
  (https://www.kaggle.com/code/minhtamlenguyen/tensorflow-roberta-0-705)
+ <br>
  (https://www.kaggle.com/code/jerifate/tweet-sentiment-blue-visualization-with-bert)
 ## **Link of notebook**
  [Dang Huu Phuoc Vinh](https://www.kaggle.com/danghuuphuocvinh/tweet-sentiment-extraction)
+ <br>
  [Le Nguyen Minh Tam](https://www.kaggle.com/code/minhtamlenguyen)
 ## **Link of competition**
  [Tweet Sentiment Extraction](https://www.kaggle.com/competitions/tweet-sentiment-extraction)
