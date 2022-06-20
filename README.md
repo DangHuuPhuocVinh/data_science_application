@@ -1,7 +1,13 @@
 # **Link kaggle** 
+ (https://www.kaggle.com/code/minhtamlenguyen/tensorflow-roberta-0-705)
+ (https://www.kaggle.com/code/jerifate/tweet-sentiment-blue-visualization-with-bert)
 ## **Link of notebook**
+ [Dang Huu Phuoc Vinh](https://www.kaggle.com/danghuuphuocvinh/tweet-sentiment-extraction)
+ [Le Nguyen Minh Tam](https://www.kaggle.com/code/minhtamlenguyen)
 ## **Link of competition**
  [Tweet Sentiment Extraction](https://www.kaggle.com/competitions/tweet-sentiment-extraction)
+# **Link of google sheet**
+ [Google sheet](https://docs.google.com/spreadsheets/d/10moa8xnprmD-MkfVzvn73UQyaCyHGVSmkDy8GRSXU4Y/edit#gid=0)
   
 # Describe
   "My ridiculous dog is amazing." [sentiment: positive]
