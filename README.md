@@ -1,3 +1,8 @@
+# **Group Name**
+|StuID|Name
+|1752052| Dang Huu Phuoc Vinh
+|1753097| Le Nguyen Minh Tam
+|______________________
 # **Link kaggle** 
  https://www.kaggle.com/code/minhtamlenguyen/tensorflow-roberta-0-705
  <br>
@@ -19,4 +24,9 @@
   Help build your skills in this important area with this broad dataset of tweets. Work on your technique to grab a top spot in this competition. What words in tweets support a positive, negative, or neutral sentiment? How can you help make that determination using machine learning tools?
 
   In this competition we've extracted support phrases from Figure Eight's Data for Everyone platform. The dataset is titled Sentiment Analysis: Emotion in Text tweets with existing sentiment labels, used here under creative commons attribution 4.0. international licence. Your objective in this competition is to construct a model that can do the same - look at the labeled sentiment for a given tweet and figure out what word or phrase best supports it.
+# Columns
+ -  textID - unique ID for each piece of text
+ -  text - the text of the tweet
+ -  sentiment - the general sentiment of the tweet
+ -  selected_text - [train only] the text that supports the tweet's sentiment
 
