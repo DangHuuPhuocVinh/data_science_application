@@ -1,7 +1,10 @@
 # **Group Name**
-|StuID|Name
-|1752052| Dang Huu Phuoc Vinh
-|1753097| Le Nguyen Minh Tam
+|StuID  |         Name       |
+<br>
+|1752052| Dang Huu Phuoc Vinh|
+<br>
+|1753097| Le Nguyen Minh Tam |
+<br>
 |______________________
 # **Link kaggle** 
  https://www.kaggle.com/code/minhtamlenguyen/tensorflow-roberta-0-705
