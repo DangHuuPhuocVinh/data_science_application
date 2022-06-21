@@ -33,5 +33,4 @@
  - Can use for detecting some keywords that have sentiment 
 
 ## **Evaluation**
-<br>
-![img](https://user-images.githubusercontent.com/35680794/174698744-57b2f116-fbe4-4fb6-9216-2e83e0494dca.png)
+ ![img](https://user-images.githubusercontent.com/35680794/174698744-57b2f116-fbe4-4fb6-9216-2e83e0494dca.png)
