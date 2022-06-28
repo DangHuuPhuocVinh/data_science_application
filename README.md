@@ -14,7 +14,7 @@
  <br>
  https://www.kaggle.com/code/jerifate/tweet-sentiment-blue-visualization-with-bert
  <br>
- https://colab.research.google.com/drive/1Hv5kfLCb2dfCIT75oA0ucyfIzODskQaT?usp=sharing
+ [Google Colab](https://colab.research.google.com/drive/1Hv5kfLCb2dfCIT75oA0ucyfIzODskQaT?usp=sharing)
 ## Description
   E.g: "My ridiculous dog is amazing." [sentiment: positive]
 
