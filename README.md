@@ -3,6 +3,8 @@
 |-------|-------------------|---------------|-------------------|
 |1752052|Dang Huu Phuoc Vinh|[V_Notebook](https://www.kaggle.com/danghuuphuocvinh)|[V_Github](https://github.com/DangHuuPhuocVinh/data_science_application)
 |1753097|Le Nguyen Minh Tam |[T_Notebook](https://www.kaggle.com/code/minhtamlenguyen)|[T_Github](https://github.com/lnmtam1999)
+# **Project in colab**
+[Model RoBerta _ Colab](https://colab.research.google.com/github/DangHuuPhuocVinh/data_science_application/blob/main/tweet-sentiment-extraction-2.ipynb)
 # **Work plan**
  [Work plan of group](https://docs.google.com/spreadsheets/d/10moa8xnprmD-MkfVzvn73UQyaCyHGVSmkDy8GRSXU4Y/edit#gid=0)
 # **Competition**
