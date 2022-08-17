@@ -4,7 +4,7 @@
 |1752052|Dang Huu Phuoc Vinh|[V_Notebook](https://www.kaggle.com/danghuuphuocvinh)|[V_Github](https://github.com/DangHuuPhuocVinh/data_science_application)
 |1753097|Le Nguyen Minh Tam |[T_Notebook](https://www.kaggle.com/minhtamlenguyen)|[T_Github](https://github.com/lnmtam1999)
 # **Project in colab (for presenting)**
-[Model RoBerta _ Colab](https://colab.research.google.com/github/DangHuuPhuocVinh/data_science_application/blob/main/Report(1).ipynb#scrollTo=dwUU1A2BtgVd)
+[Model RoBerta _ Colab](https://colab.research.google.com/drive/1LbVJzRIom-rNRRHC5sG0qVmAcbLUXFrS#scrollTo=kJJnmV8ytgVI)
 # **Project in kaggle (for running)**
 [Tweet Sentiment Extraction](https://www.kaggle.com/code/danghuuphuocvinh/report/edit/run/102204871)
 # **Work plan**
